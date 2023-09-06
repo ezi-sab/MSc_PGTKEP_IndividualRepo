@@ -10,20 +10,23 @@ Below description illustrates in details.
 The original source code is publicly available on:
 https://github.com/expartools/ETSeq
 -->
-### :file_folder: Data files
-
-* templateSeqLists.txt
-    > Dataset of all template sequences from Qian et al.
-
-* templateSeqLists_EXCEPT_77seq.txt
-    > Dataset of template sequences without 77 templates
 
 ### :bookmark_tabs: Experiments
 
 * Upgrading_ETSeq
   > The original source code is publicly available on: https://github.com/expartools/ETSeq
 
-  The `run.py` is the key file to run the computational tool called 'ETSeq'. To run `run.py`, you need to prepare environment as below:
+  :file_folder: Data files
+
+  * templateSeqLists.txt
+    > Dataset of all template sequences from Qian et al.
+
+  * templateSeqLists_EXCEPT_77seq.txt
+    > Dataset of template sequences without 77 templates
+  
+  :computer: Run files
+  
+  The `run.py` is the key file to run the computational tool called `ETSeq`. To run `run.py`, you need to prepare environment as below:
   * Create a python virtual environment named .venv
 
     `python -m venv .venv`
