@@ -47,7 +47,7 @@ The `run.py` is the key file to run the computational tool called `ETSeq`. To ru
 
 :file_folder: Data files
 
-* templateSeqs.xlsx
+* templateSeqs_withonlyClass.xlsx
   > Combination of Class I and II template sequences (from Qian et al.)
 
 #### Implement_LDpipeline
