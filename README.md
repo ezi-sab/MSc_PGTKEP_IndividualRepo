@@ -1,6 +1,6 @@
 # :mortar_board: MSc_PGTKEP_IndividualRepo
 
-This repository consists of the contents for my PGTKEP project. 
+This repository consists of the contents for my individual PGTKEP project. 
 
 Below description illustrates in details. 
 
